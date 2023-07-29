@@ -1,0 +1,33 @@
+[2023-07-29 20:32:38][INFO] Started!
+[2023-07-29 20:32:40][INFO] package: mysql.connector.plugins
+[2023-07-29 20:32:40][INFO] plugin_name: caching_sha2_password
+[2023-07-29 20:32:40][INFO] AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+[2023-07-29 20:35:29][INFO] Started!
+[2023-07-29 20:35:30][INFO] package: mysql.connector.plugins
+[2023-07-29 20:35:30][INFO] plugin_name: caching_sha2_password
+[2023-07-29 20:35:30][INFO] AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+[2023-07-29 20:35:30][ERROR] Traceback (most recent call last):
+  File "C:\Users\Tae Young Kevin Shin\Desktop\11_shopping_mall_crawler\11_shopping_mall_crawler.py", line 331, in run
+    self.insert_data_to_mysql()
+  File "C:\Users\Tae Young Kevin Shin\Desktop\11_shopping_mall_crawler\11_shopping_mall_crawler.py", line 306, in insert_data_to_mysql
+    for i in range(self.product_name):
+TypeError: 'list' object cannot be interpreted as an integer
+
+[2023-07-29 20:35:30][INFO] Traceback (most recent call last):
+  File "C:\Users\Tae Young Kevin Shin\Desktop\11_shopping_mall_crawler\11_shopping_mall_crawler.py", line 331, in run
+    self.insert_data_to_mysql()
+  File "C:\Users\Tae Young Kevin Shin\Desktop\11_shopping_mall_crawler\11_shopping_mall_crawler.py", line 306, in insert_data_to_mysql
+    for i in range(self.product_name):
+TypeError: 'list' object cannot be interpreted as an integer
+
+[2023-07-29 20:35:30][INFO] Traceback (most recent call last):
+  File "C:\Users\Tae Young Kevin Shin\Desktop\11_shopping_mall_crawler\11_shopping_mall_crawler.py", line 331, in run
+    self.insert_data_to_mysql()
+  File "C:\Users\Tae Young Kevin Shin\Desktop\11_shopping_mall_crawler\11_shopping_mall_crawler.py", line 306, in insert_data_to_mysql
+    for i in range(self.product_name):
+TypeError: 'list' object cannot be interpreted as an integer
+
+[2023-07-29 20:36:03][INFO] Started!
+[2023-07-29 20:36:05][INFO] package: mysql.connector.plugins
+[2023-07-29 20:36:05][INFO] plugin_name: caching_sha2_password
+[2023-07-29 20:36:05][INFO] AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
